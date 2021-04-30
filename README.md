@@ -18,14 +18,14 @@ Output from the network is a 512*512 which represents mask that should be learne
 Sigmoid activation function makes sure that mask pixels are in [0, 1] range.
 
 ### Training
-The model is trained for 5 epochs.
 
-Accuracy ~ 0.97.
+Epochs = 5
 
-Training loss function - binary crossentropy.
+Accuracy ~ 0.95.
+
+Loss function - binary crossentropy.
 
 ## Results
-Trained model to do segmentation on test images
 
 ![img/0test.png](img/1test.png)
 
