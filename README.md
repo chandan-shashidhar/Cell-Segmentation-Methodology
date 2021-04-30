@@ -27,6 +27,6 @@ Loss function - binary crossentropy.
 
 ## Results
 
-![img/0test.png](img/1test.png)
+![img/1test.png](img/1test.png)
 
-![img/0label.png](img/1label.png)
+![img/1label.png](img/1label.png)
