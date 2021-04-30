@@ -27,6 +27,6 @@ Training loss function - binary crossentropy.
 ## Results
 Trained model to do segmentation on test images
 
-![img/0test.png](img/0test.png)
+![img/0test.png](img/1test.png)
 
-![img/0label.png](img/0label.png)
+![img/0label.png](img/1label.png)
